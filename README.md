@@ -3,7 +3,7 @@
 - 👀 my favourate field is NLP
 - 🌱 I’m currently learning NLP
 - 💞️ I’m looking to collaborate on solving problems in the field of Machine Learning & AI
-[//]: <> (- 📫 How to reach me 22biswajitsen22@gmail.com)
+- 📫 How to reach me 22biswajitsen22@gmail.com
 - 💻 All of my projects are available [here](https://github.com/biswajit2sen?tab=repositories)
 - 😄 Pronouns: Biswa
 <!---
